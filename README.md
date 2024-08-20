@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FosterSenpai
+# 👋 Hi, I’m Foster
 - 👀 I’m interested in learning more about Artificial Intelligence and Machine Learning on my path to becoming a Data Scientist.
 - 🌱 I’m currently in the first year of my Bachelor of Computer Science.
 - 💞️ I’m looking to collaborate on any kind of data analysis problems with someone who is interested in showing the process.
