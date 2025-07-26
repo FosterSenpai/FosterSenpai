@@ -1,5 +1,5 @@
 # Hey, I’m Foster
-I’m interested in learning more about Artificial Intelligence and Machine Learning on my path to becoming a Data Scientist. <br>
+I’m interested in learning more about Artificial Intelligence and Machine Learning. <br>
 I’m currently in the second year of my Bachelor of Computer Science. <br>
 I’m looking to collaborate on any kind of data analysis problems with anyone who is interested in showing the process.
 
