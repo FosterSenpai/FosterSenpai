@@ -7,7 +7,7 @@ I have a strong interest in robotics, especially IK (Inverse Kinematics) and Ard
 
 I am always looking to learn more about AI and ML, with a current focus on deep learning.  
 
-I also enjoy front end graphics and non-web software — games and desktop applications using OpenGL, SFML and Pygame.  
+I also enjoy front end graphics and non-web software, games and desktop applications using OpenGL, SFML and Pygame.  
 
 After a recent networking project and class, I have become very interested in software network architecture and enjoy building projects with network aspects.  
 
